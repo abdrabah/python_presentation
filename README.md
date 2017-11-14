@@ -17,7 +17,7 @@ To see the presentation you have to:
     
 - Change direoctory to presentation folder
   
-  `$ cd sfd_2014_python_tunisia`
+  `$ cd python_presentation`
 
 - Run hovercarft command to generate the presentation
   
