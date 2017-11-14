@@ -29,7 +29,21 @@
     email = "abdrabah.rafik@gmail.com"
     # I love that place.
     github = "https://github.com/abdrabah"
+    
+----
 
+Disclaimer
+============
+.. image:: images/Ghassen-Telmoudi.jpeg
+.. code:: python
+
+    ghassen.presentation.addRemote(
+        "https://github.com/pyghassen/python_tunisia_presentation")
+
+    self.presentation = ghassen.presentation.fork()
+    
+
+----
 ----
 
 Python, do you know it?
@@ -231,6 +245,26 @@ Python Class
     if __name__ == '__main__':
         developer = Developper("ABDRABAH Rafik")
         developer.say_hello()
+       
+----
+
+Disadvantages
+============================
+.. image:: images/not-sure.jpg
+.. code:: python
+
+
+    python_disadvantages = [
+        "isn't the best for memory intensive task",
+        "is interpreted language & is slow compared to C/C++ or java",
+        "not a great choice for a high-graphic 3d game that takes up a lot of CPU",
+    ]
+    python_questions = [
+        "Does adding some RAM Slots is expensive then your time ?",
+        "You have the control, Jython, Cython, PyPy etc."
+    ]
+
+----
 
 ----
 
